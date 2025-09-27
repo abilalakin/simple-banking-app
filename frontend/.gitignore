@@ -1,0 +1,19 @@
+# Dependencies
+/node_modules/
+
+# Vite build output
+/dist/
+
+# Log files
+npm-debug.log*
+
+# Local environment variables
+.env.local
+.env.*.local
+
+# VS Code editor files
+.vscode/*
+!.vscode/extensions.json
+
+# macOS system files
+.DS_Store
